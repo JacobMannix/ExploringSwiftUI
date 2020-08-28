@@ -1,4 +1,4 @@
-# Memorize - A card matching game
+# Exploring SwiftUI
 Exploring the possibilities of app development using SwiftUI
 
 ![AppDemo](MemorizeAppDemoLecture06-150px.gif)
