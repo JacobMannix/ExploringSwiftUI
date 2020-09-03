@@ -19,3 +19,7 @@ In order to turn the individual app icon into the different sizes needed for var
 ---
 
 As additional lectures are released I plan on updating my app.
+
+---
+
+Licensed under the [MIT License](LICENSE).
