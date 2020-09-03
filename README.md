@@ -1,5 +1,5 @@
-# Exploring SwiftUI
-Exploring the possibilities of app development using SwiftUI
+# Stanford SwiftUI Apps
+Exploring the possibilities of app development using SwiftUI based on the lectures provided by Stanford University
 
 ![AppDemo](MemorizeAppDemoLecture06-150px.gif)
 
